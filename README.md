@@ -6,9 +6,9 @@
   <li>Editar dados do cliente/livro</li>
   <li>Remover cliente/livro</li>
   <li>Realizar emprestimo de livro</li>
-  <ul>Se o cliente devolver o livro após o prazo cobrar taxa</li>
-
-  <h2>Tecnologogias Utilizadas</h2>
+  <li>Se o cliente devolver o livro após o prazo cobrar taxa</li>
+  
+<h2>Tecnologogias Utilizadas</h2>
   <ul>
     <li>C#</li>
     <li>MySql</li>
